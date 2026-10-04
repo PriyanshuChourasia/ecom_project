@@ -1,0 +1,15 @@
+{
+  "name": "turborepo",
+  "private": true,
+  "packageManager": "pnpm@12.9.1",
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ],
+  "devDependencies": {
+    "turbo": "^2.1.0"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

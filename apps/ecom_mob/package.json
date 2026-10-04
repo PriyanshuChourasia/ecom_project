@@ -1,0 +1,9 @@
+{
+  "name": "ecom_mob",
+  "private": true,
+  "scripts": {
+    "build": "flutter build apk --debug",
+    "analyze": "flutter analyze",
+    "test": "flutter test"
+  }
+}
